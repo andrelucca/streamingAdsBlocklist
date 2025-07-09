@@ -5,7 +5,7 @@
 #
 # Date: 09 July 2025 15:05:02 (UTC)
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/andrelucca/streamingAdsBlocklist/master/hosts.txt
+# Fetch the latest version of this file: https://raw.githubusercontent.com/andrelucca/streamingAdsBlocklist/refs/heads/main/hosts.txt
 # Project home page: https://github.com/andrelucca/streamingAdsBlocklist
 # Project releases: https://github.com/andrelucca/streamingAdsBlocklist/releases
 #
