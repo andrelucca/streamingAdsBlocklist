@@ -1,5 +1,5 @@
 
-# Streaming As Blocklist for pi-hole
+# Streaming Ads Blocklist for pi-hole
 
 This repository contains a simple list of domains used by Streaming services like Disney+, Netflix, etc to fetch ads when you are in the basic payd plan
 
