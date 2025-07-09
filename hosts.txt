@@ -1,0 +1,15 @@
+# Title: andrelucca/streamingAdsBlocklist
+#
+# This hosts file contains various URLs used by popular streaming services 
+#like Disney+, Netflix, AmazonPrime to serve Ads even with payd subscriptions
+#
+# Date: 09 July 2025 15:05:02 (UTC)
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/andrelucca/streamingAdsBlocklist/master/hosts.txt
+# Project home page: https://github.com/andrelucca/streamingAdsBlocklist
+# Project releases: https://github.com/andrelucca/streamingAdsBlocklist/releases
+#
+# ===============================================================
+
+0.0.0.0 beacons.digital.disneyadvertising.com
+0.0.0.0 us-east-1.ads.digital.disneyadvertising.com
