@@ -1,7 +1,7 @@
 # Title: andrelucca/streamingAdsBlocklist
 #
 # This hosts file contains various URLs used by popular streaming services 
-#like Disney+, Netflix, AmazonPrime to serve Ads even with payd subscriptions
+# like Disney+, Netflix, AmazonPrime to serve Ads even with paid subscriptions
 #
 # Date: 09 July 2025 15:05:02 (UTC)
 #
