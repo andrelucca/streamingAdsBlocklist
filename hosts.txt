@@ -17,3 +17,4 @@
 # AmazonPrime
 0.0.0.0 ters-vod1.us-west-2.aiv-delivery.net
 0.0.0.0 www.btd-cmh.tq-tungsten.com
+0.0.0.0 public-alb.us-west-2.prod.regolith.prime-video.amazon.dev
