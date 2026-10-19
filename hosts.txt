@@ -11,5 +11,9 @@
 #
 # ===============================================================
 
+# Disney+
 0.0.0.0 beacons.digital.disneyadvertising.com
 0.0.0.0 us-east-1.ads.digital.disneyadvertising.com
+# AmazonPrime
+0.0.0.0 ters-vod1.us-west-2.aiv-delivery.net
+0.0.0.0 www.btd-cmh.tq-tungsten.com
